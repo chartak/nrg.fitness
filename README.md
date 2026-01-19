@@ -63,8 +63,9 @@ https://k.nrg.fitness , https://v.nrg.fitness
 ---
 
 ## 👨‍💻 Role & Responsibilities
-**Role:** Full-Stack Developer  
-**Team size:** 1 (solo project)
+**Role:** Full-Stack Developer (PHP / Laravel Developer) 
+**Project Type:** Individual full-cycle project 
+**Design:** UI layout provided by a designer 
 
 I was responsible for:
 - System architecture design
