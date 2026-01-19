@@ -3,9 +3,7 @@
 ## 📌 Project Overview
 **Fitness Club** is a full-cycle web application developed for a fitness club.  
 The project includes a **public-facing website for clients** and a **secure administrative panel** for managing content and user requests.
-
-The project was developed **entirely by me**, based on a provided UI design.
-
+The project was developed **entirely by me**, based on a provided UI design, covering backend logic, database architecture, frontend integration, and deployment.
 Source code is **not publicly available**. This repository is intended for **portfolio review only**.
 
 ---
