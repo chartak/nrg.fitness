@@ -4,7 +4,7 @@
 **Fitness Club** is a full-cycle web application developed for a fitness club.  
 The project includes a **public-facing website for clients** and a **secure administrative panel** for managing content and user requests.
 
-The project was developed **entirely by me**, from architecture design to deployment.
+The project was developed **entirely by me**, based on a provided UI design.
 
 Source code is **not publicly available**. This repository is intended for **portfolio review only**.
 
@@ -63,8 +63,10 @@ https://k.nrg.fitness , https://v.nrg.fitness
 ---
 
 ## 👨‍💻 Role & Responsibilities
-**Role:** Full-Stack Developer (PHP / Laravel Developer) 
+**Role:** Full-Stack Developer (PHP / Laravel Developer)
+
 **Project Type:** Individual full-cycle project
+
 **Design:** UI layout provided by a designer
 
 I was responsible for:
