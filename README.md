@@ -34,6 +34,12 @@ Source code is **not publicly available**. This repository is intended for **por
 - 🔐 Secure administrator authentication
 - 🧩 Centralized content management system
 
+<img width="1916" height="730" alt="nrg fitness clubcart" src="https://github.com/user-attachments/assets/6d9ad155-eab7-4e5c-9a56-21903dd3ac36" />
+
+<img width="1516" height="807" alt="nrg fitness permission" src="https://github.com/user-attachments/assets/25d6e804-22f7-4b64-82de-54e1ce4dd0c6" />
+
+<img width="1888" height="881" alt="nrg fitness stocks" src="https://github.com/user-attachments/assets/a4f806a9-5687-4af9-8c9b-fcd34443c61f" />
+
 ---
 
 ## 🧠 Technology Stack
